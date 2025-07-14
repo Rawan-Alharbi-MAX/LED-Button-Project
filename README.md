@@ -72,3 +72,11 @@ void loop(){
 
 4-اذا لم يتم الضغط على أي زر، ستبقى جميع اللمبات مطفأة.
 
+صورة تظهر شكل التوصيل :
+
+
+
+<img width="869" height="321" alt="LED-PUsh button" src="https://github.com/user-attachments/assets/cdd76463-8799-423b-a23d-6964a922afa8" />
+
+
+
